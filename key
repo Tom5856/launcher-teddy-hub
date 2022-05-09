@@ -1,4 +1,4 @@
-local key = {1234}
+local key = {}
 
 table.insert(key,"keyforscript")
 return key
